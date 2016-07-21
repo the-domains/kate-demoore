@@ -1,0 +1,28 @@
+name: kate demoore
+favicon: null
+layout_spectrum: 0.9685456694569439
+typography_spectrum: 0.8945517248939723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9400165483821183
+  lightness: 0.49012114526703954
+  saturation: 0.9834668124094605
+  rhythmicContrast: 0.9091199298854917
+purpose: []
